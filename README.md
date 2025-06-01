@@ -96,7 +96,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/omar-bouhdida/Web-Programming-in-Python-Exam.git
 cd Nest.Js-Django
 ```
 
